@@ -9,13 +9,13 @@ const USER_CONFIG = {
   //USE_PASSAGE: 'push-plus',
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wxc5def85e66c71f9d',
+  APP_ID:'wxc5def85e66c71f9d',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '256da5cfc1e7640eff301172fe9d6509',
+  APP_SECRET:'256da5cfc1e7640eff301172fe9d6509',
 
-  PROVINCE: '重庆',
-  CITY: '重庆',
+  PROVINCE:'重庆',
+  CITY:'重庆',
 
   USERS: [
     {
